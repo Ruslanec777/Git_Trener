@@ -14,6 +14,7 @@ namespace Git_Trener
         public string SurName{ get; set; }
 
         public string Color{ get; set; }
+      //и2.2
     }
 }
 
