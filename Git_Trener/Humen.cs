@@ -12,3 +12,5 @@ namespace Git_Trener
         public string SurName{ get; set; }
     }
 }
+
+// комит для мастера
