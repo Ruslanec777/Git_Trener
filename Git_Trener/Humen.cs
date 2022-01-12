@@ -15,6 +15,7 @@ namespace Git_Trener
 
         public string Color{ get; set; }
       //и2.2
+      // master
     }
 }
 
