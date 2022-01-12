@@ -11,6 +11,6 @@ namespace Git_Trener
         public string Name{ get; set; }
 
         // b2
-        public string SurName{ get; set; }
+      //и2.2
     }
 }
